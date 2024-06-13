@@ -1,0 +1,23 @@
+Most modern industrial activities produce greenhouse gasses such as CO2 into the atmosphere. 
+To acheive net-zero carbon emissions, corporations must reduce existing emissions, increase carbon reduction, or both.
+
+CO2 capure in cement industry
+
+The cement industry makes up 8% of global carbon emissions, making it the 6th largest producer of emissions behind transportation, energy, residential, industrial, and agricultural carbon emisisons. 
+
+Recent technologies have allowed for over 90% of possible cement production emissions to be fixated within cement. This serves to reduce a producer's emissions and strengthen their product at a reduced cost. 
+
+Portland concrete is a binding agent used in concrete.
+It accounts for 10-12% of the material's total mass, but produces 90% of the cement emissions.
+
+Of the 1370lbs of CO2 per tonne of cement, 400lbs come from just the tranportation of cement and required materials. 
+
+
+
+
+SOURCES
+https://www.un.org/en/climatechange/net-zero-coalition#:~:text=Put%20simply%2C%20net%20zero%20means,leaving%20zero%20in%20the%20atmosphere.
+https://www.carbonclean.com/industries/cement
+https://www.nrdc.org/bio/sasha-stashwick/carbon-capture-concrete-could-one-day-be-carbon-sink
+https://en.wikipedia.org/wiki/Environmental_impact_of_concrete#:~:text=The%20CO%202%20produced%20for,fly%20ash%20replacement%20of%20cement).
+https://insideclimatenews.org/news/24062022/concrete-is-worse-for-the-climate-than-flying-why-arent-more-people-talking-about-it/#:~:text=Manufacturing%20concrete%20similarly%20requires%20power,of%20cement%20manufactured%2C%20researchers%20say.
