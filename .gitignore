@@ -132,3 +132,5 @@ dist
 
 # large files
 data/
+
+.DS_Store
