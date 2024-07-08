@@ -31,7 +31,7 @@ Using Tweepy and the Twitter API, this code allows for the user to retreive up t
 
 After rettreiving the tweets from Twitter, now they can be classified by hand. After loading the tweets file, an interactive widget is made to streamline the labeling process. Tweets that display positive sentiment are labeled as 4, neutral sentiment as 0, and negative sentiment as -4. After all tweets in the .csv are labeled, a new .csv titled **combined_tweets_with_sentiment_labeled.csv** is created that contains both the text in the tweet, as well as the sentiment classification.
 
-![labeling UI](/Users/blakelayton/Desktop/Git SocData/soc-data/Screenshot 2024-07-08 at 3.22.23 PM.png)
+![labeling UI](images/classifyingtweets.png)
 
 ## new data classifying large.ipynb
 
@@ -43,7 +43,7 @@ The neural network used in the notebook is a Sequential model built with TensorF
 
 Durring training, multiple epochs are run at incrimentally different training rates. Once the optimal rate is found, the model is further trained using that rate to ideally acheive higher accuracies when predicting tweet sentiment. 
 
-![Graph displaying the optimal rate](/Users/blakelayton/Desktop/Git SocData/soc-data/optimalrate.png)
+![Graph displaying the optimal rate](images/optimalrate.png)
 
 After training is completed, then the previously hand classified tweets are uploaded and formatted similarly to the 1.6 million tweets. By using the evaluate function, the new tweets and their sentiment classifications can be used to test the accuracy of the final model. 
 
