@@ -1,13 +1,20 @@
-# soc-data
+# soc-data 
 This project was done at an internship at [TerraNexum](https://www.terranexum.com/)
+
+A huge thank you to my mentor Dahl Winters. 
 ## Libraries and datasets used
 ### Data
 * [1.6 million labeled tweets](https://www.kaggle.com/datasets/kazanova/sentiment140)
 * Self-labeled training/testing data - See [Twitter.ipynb](https://github.com/terranexum/soc-data/blob/main/notebooks/Twitter.ipynb)
 ### Libraries
-*
-*
-*
+* [Pandas](https://pandas.pydata.org/docs/)
+* [Tweepy](https://docs.tweepy.org/en/stable/)
+* [NumPy](https://numpy.org/doc/)
+* [TensorFlow](https://www.tensorflow.org/api_docs)
+* [Keras](https://keras.io/api/)
+* [ipywidgets](https://ipywidgets.readthedocs.io/en/stable/)
+* [Pickle](https://docs.python.org/3/library/pickle.html)
+* [Matplotlib](https://matplotlib.org/stable/index.html)
 ## Overview
 The primary objective is to develop a sentiment analysis model that can accurately classify tweets based on their sentiment. 
 The notebooks are structured as follows:
